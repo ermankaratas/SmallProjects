@@ -1,0 +1,15 @@
+Assignment 1:
+
+http://dhtmlgoodies.com/scripts/drag-drop-quiz/drag-drop-quiz-d2.html
+Find the countries and cities here collectively with findElements and distribute all the cities to the correct countries with a loop.
+
+Assignment 2:
+
+http://dhtmlgoodies.com/scripts/drag-drop-nodes/drag-drop-nodes.html
+Assign all the students here until they fill in all the boxes.
+
+
+Assignment 3: (challenge question)
+
+http://dhtmlgoodies.com/scripts/drag-drop-nodes-quiz/drag-drop-nodes-quiz.html
+Distribute all the cities here correctly to all countries.
