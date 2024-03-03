@@ -1,0 +1,6 @@
+Scenario
+     1- Go to https://testsheepnz.github.io/BasicCalculator.html.
+     2- Generate 2 random numbers up to 100.
+     3- Run the numbers for all functions of the calculator.
+     4- Check the results with Assert.
+     5- Repeat the above process 5 times.
