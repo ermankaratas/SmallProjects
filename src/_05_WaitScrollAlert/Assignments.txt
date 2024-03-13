@@ -33,8 +33,8 @@ Assignment 5:
 2. Click the "Add Element" button.
 3. Wait for the "Delete" button to become visible.
 4. Test that the "Delete" button is visible.
-5. Click the Delete button to remove it.
-6. Test that the Delete button is not visible.
+5. Click the "Delete" button to remove it.
+6. Test that the "Delete" button is not visible.
 
 Assignment 6:
 
