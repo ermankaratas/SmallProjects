@@ -1,0 +1,44 @@
+Assignment 1:
+
+1. Open the page with google.com.
+2. Then open a new TAB (ctrl+T).
+3. In this newly opened page, open facebook.com.
+4. Verify that the page has opened by checking its URL.
+5. Close the facebook.com page.
+
+Assignment 2:
+
+1. Go to the address https://demoqa.com/browser-windows.
+2. Click on Alerts.
+3. Click the "click me" button opposite "On button click, alert will appear after 5 seconds."
+4. Wait for the alert to appear.
+5. Test that the text on the alert is "This alert appeared after 5 seconds."
+6. Close the alert by clicking OK.
+
+Assignment 3:
+
+1. Go to the address https://demoqa.com/dynamic-properties.
+2. Wait for the "Will enable 5 seconds" button to become enabled.
+3. Test that the "Will enable 5 seconds" button is enabled.
+
+Assignment 4:
+
+1. Go to the address https://demoqa.com/dynamic-properties.
+2. Wait for the "Visible After 5 seconds" button to become visible.
+3. Test that the "Visible After 5 seconds" button is visible.
+
+Assignment 5:
+
+1. Go to the address https://the-internet.herokuapp.com/add_remove_elements/.
+2. Click the "Add Element" button.
+3. Wait for the "Delete" button to become visible.
+4. Test that the "Delete" button is visible.
+5. Click the Delete button to remove it.
+6. Test that the Delete button is not visible.
+
+Assignment 6:
+
+1. Go to https://www.youtube.com/.
+2. Search for videos with the keyword "Selenium."
+3. Extend the list of results up to 80 videos.
+4. Print the title of the last video.
