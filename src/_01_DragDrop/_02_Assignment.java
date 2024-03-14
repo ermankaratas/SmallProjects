@@ -14,7 +14,7 @@ import java.util.List;
 
 public class _02_Assignment extends BaseDriver {
     @Test
-    public void Test2(){
+    public void test2(){
         driver.get("http://dhtmlgoodies.com/scripts/drag-drop-nodes/drag-drop-nodes.html");
 
         List<WebElement> students = driver.findElements(By.xpath("//ul[@id='allItems']/li"));

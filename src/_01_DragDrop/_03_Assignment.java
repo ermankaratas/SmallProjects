@@ -12,7 +12,7 @@ import java.util.List;
 
 public class _03_Assignment extends BaseDriver {
     @Test
-    public void Test3(){
+    public void test3(){
         driver.get("http://dhtmlgoodies.com/scripts/drag-drop-nodes-quiz/drag-drop-nodes-quiz.html");
 
         List<WebElement> cities = driver.findElements(By.xpath("//ul[@id='allItems']/li"));
