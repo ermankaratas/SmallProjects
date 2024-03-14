@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class Assignment extends BaseDriver {
     @Test
-    public void Test1(){
+    public void test1(){
         driver.get("https://testsheepnz.github.io/BasicCalculator.html");
 
         WebElement number1 = driver.findElement(By.name("number1"));
