@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class _02_Assignment extends BaseDriver {
+public class _03_Assignment extends BaseDriver {
     @Test
     public void test1(){
         driver.get("https://www.snapdeal.com/");
